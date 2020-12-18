@@ -1,0 +1,47 @@
+.contact{
+    height:600px;
+    width:1150px;
+    background-color:white;
+    border: 1px solid gray;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: block;
+}
+.contact h2{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Arial;
+}
+.contact p{
+    text-align: justify;
+    margin: 20px 20px 20px 20px;
+}
+.contact hr{
+    margin: 0px 20px 20px 20px;
+}
+.contact .gambar{
+    margin: 30px 120px 50px 115px;
+    float: left;
+    text-align: center;
+}
+.contact .gambar img{
+    width: 80px;
+    height:90px;
+}
+.contact .gambar p{
+    text-align: center;
+}
+.contact .gambar2{
+    margin: 30px 70px 50px 90px;
+    float: left;
+    text-align: center;
+}
+.contact .gambar2 img{
+    width: 80px;
+    height:90px;
+}
+.contact .gambar2 p{
+    text-align: center;
+}
